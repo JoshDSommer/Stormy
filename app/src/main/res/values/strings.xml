@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stormy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_title">Oops Sorry</string>
+    <string name="error_message">There was an Error please try again.</string>
+    <string name="error_button">Ok</string>
+    <string name="error_network_unavalable">Network is Down</string>
+    <string name="api_key">7d4358a03f4e8309fcc754a0e1cc3613</string>
+    <string name="api_uri">https://api.forecast.io/forecast/</string>
+</resources>
